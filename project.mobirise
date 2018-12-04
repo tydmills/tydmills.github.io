@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NPCUCC WEBSITE",
-    "currentPage": "events.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3281,7 +3281,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "An online forum for all Conference members to share stories and events from their local churches or discuss Conference-wide events.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO VIEW FORUM</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://muut.com/npcucc#!/general\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO VIEW FORUM</a> "
               }
             ]
           }
