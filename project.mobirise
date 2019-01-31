@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mission and Outreach",
-    "currentPage": "home.html",
+    "currentPage": "missionandoutreach.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "uniqCompNum": 8,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/ucc-logo-128x27-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ucc-logo-black-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
