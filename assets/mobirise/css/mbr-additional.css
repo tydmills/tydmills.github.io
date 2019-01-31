@@ -2764,7 +2764,7 @@ body {
 .cid-rg9vwnRsUx {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #007ea9;
+  background-color: #c0e1ed;
 }
 .cid-rg9vwnRsUx .mbr-text,
 .cid-rg9vwnRsUx blockquote {
@@ -2773,6 +2773,9 @@ body {
 .cid-rg9vwnRsUx .mbr-text {
   text-align: center;
   color: #ffffff;
+}
+.cid-rg9vwnRsUx .mbr-text B {
+  color: #232323;
 }
 .cid-rg9w3d3Bov {
   padding-top: 45px;
@@ -2818,7 +2821,7 @@ body {
   text-align: center;
 }
 .cid-rg9yoa64h1 {
-  padding-top: 15px;
+  padding-top: 60px;
   padding-bottom: 15px;
   background-color: #c0e1ed;
 }
