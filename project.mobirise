@@ -3022,7 +3022,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/af5b2c15-0eab-4762-98c7-2acf2130604b-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3041,7 +3041,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4790-640x425.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
