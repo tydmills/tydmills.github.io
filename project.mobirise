@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NPCUCC WEBSITE",
-    "currentPage": "home.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#f9f9f9"
+        "#f9f9f9",
+        "#c0e1ed"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1636,7 +1637,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>REPUDIATE THE DOCTRINE OF DISCOVERY</b></li>\n                    <li><b>LAZARUS, COME OUT </b>- A Shared Statement of Hope in the Face of Climate Change</li>\n                    <li><b>REGARDING MEASURE 1</b></li><li><b>REGARDING THE COST OF RESIDENTIAL CARE SERVICES</b></li><li><b>SUPPORT OF NON-PROFIT NON-PARTISANSHIP</b></li><li><b>THE EARTH IS THE LORD'S - NOT OURS TO WRECK</b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><a href=\"assets/files/doctrine_of_discovery_final_version_valley_city.pdf\"><b>REPUDIATE THE DOCTRINE OF DISCOVERY</b></a></li>\n                    <li><b><a href=\"assets/files/ecology_resolution.pdf\"><b>LAZARUS, COME OUT</b></a> </b>- A Shared Statement of Hope in the Face of Climate Change</li>\n                    <li><a href=\"assets/files/personhood_draft_bismarck.pdf\"><b>REGARDING MEASURE 1</b></a></li><li><a href=\"assets/files/resolution_on_the_cost_of_residential_care_services.pdf\"><b>REGARDING THE COST OF RESIDENTIAL CARE SERVICES</b></a></li><li><a href=\"assets/files/support-of-nonprofit-nonpartisanship-resolution.pdf\"><b>SUPPORT OF NON-PROFIT NON-PARTISANSHIP</b></a></li><li><a href=\"assets/files/the-earth-is-the-lord-s-not-ours-to-wreck-resolution.pdf\"><b>THE EARTH IS THE LORD'S - NOT OURS TO WRECK</b></a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r8EXuJcHy5",
           "_anchor": "content12-b",
           "_protectedParams": [],
